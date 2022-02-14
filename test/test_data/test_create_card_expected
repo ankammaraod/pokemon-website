@@ -1,0 +1,39 @@
+<article class="pokemon">
+    <div class="pokemon-img">
+        <img src="images/ivysaur.png" alt="ivysaur">
+    </div>
+    <section class="pokemon-details">
+        <header>
+            <h1>Ivysaur</h1>
+            <div class="type">
+                <div class="grass">Grass</div><div class="poison">Poison</div>
+            </div>
+        </header>
+        <table class="stats">
+            <tr>
+                <th>Weight</th>
+                <td>130</td>
+            </tr>
+            <tr>
+                <th>Base XP</th>
+                <td>142</td>
+            </tr>
+            <tr>
+                <th>HP</th>
+                <td>60</td>
+            </tr>
+            <tr>
+                <th>Attack</th>
+                <td>62</td>
+            </tr>
+            <tr>
+                <th>Defense</th>
+                <td>63</td>
+            </tr>
+            <tr>
+                <th>Speed</th>
+                <td>60</td>
+            </tr>
+        </table>
+    </section>
+</article>

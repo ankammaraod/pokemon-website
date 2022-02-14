@@ -1,0 +1,77 @@
+<article class="pokemon">
+    <div class="pokemon-img">
+        <img src="images/venusaur.png" alt="venusaur">
+    </div>
+    <section class="pokemon-details">
+        <header>
+            <h1>Venusaur</h1>
+            <div class="type">
+                <div class="grass">Grass</div><div class="poison">Poison</div>
+            </div>
+        </header>
+        <table class="stats">
+            <tr>
+                <th>Weight</th>
+                <td>1000</td>
+            </tr>
+            <tr>
+                <th>Base XP</th>
+                <td>236</td>
+            </tr>
+            <tr>
+                <th>HP</th>
+                <td>80</td>
+            </tr>
+            <tr>
+                <th>Attack</th>
+                <td>82</td>
+            </tr>
+            <tr>
+                <th>Defense</th>
+                <td>83</td>
+            </tr>
+            <tr>
+                <th>Speed</th>
+                <td>80</td>
+            </tr>
+        </table>
+    </section>
+</article><article class="pokemon">
+    <div class="pokemon-img">
+        <img src="images/charmander.png" alt="charmander">
+    </div>
+    <section class="pokemon-details">
+        <header>
+            <h1>Charmander</h1>
+            <div class="type">
+                <div class="fire">Fire</div>
+            </div>
+        </header>
+        <table class="stats">
+            <tr>
+                <th>Weight</th>
+                <td>85</td>
+            </tr>
+            <tr>
+                <th>Base XP</th>
+                <td>62</td>
+            </tr>
+            <tr>
+                <th>HP</th>
+                <td>39</td>
+            </tr>
+            <tr>
+                <th>Attack</th>
+                <td>52</td>
+            </tr>
+            <tr>
+                <th>Defense</th>
+                <td>43</td>
+            </tr>
+            <tr>
+                <th>Speed</th>
+                <td>65</td>
+            </tr>
+        </table>
+    </section>
+</article>
